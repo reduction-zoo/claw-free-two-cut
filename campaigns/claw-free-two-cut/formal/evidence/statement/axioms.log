@@ -1,0 +1,2 @@
+'ClawFreeTwoCut.Goal' depends on axioms: [propext, Classical.choice, Quot.sound]
+'ClawFreeTwoCut.solve' depends on axioms: [propext, sorryAx, Classical.choice, Quot.sound]
